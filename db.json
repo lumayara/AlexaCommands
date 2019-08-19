@@ -1,0 +1,31 @@
+{
+    "managers":[
+        {
+            "id":0,
+            "email":"chanaka.perera@lcginc.com",
+            "name": "Chanaka Perera"
+        },
+        {
+            "id":1,
+            "name":"Sri Kothuri",
+            "email": "sri.kothuri@lcginc.com"
+        },
+        {        
+            "id":2,
+            "name":"Sumitra Sampath",
+            "email":"sumitra.sampath@lcginc.com"
+        }
+    ],
+    "developers":[
+        {
+        "id":0,
+        "name": "Luana Fernandes",
+            "email": "luana.fernandes@lcginc.com"
+        },
+        {
+            "id":1,
+            "name": "Hima Poonadathu",
+            "email": "hima.poona@lcginc.com"
+        }
+    ]
+}
